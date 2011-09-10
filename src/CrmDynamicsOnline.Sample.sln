@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmDynamicsOnline.Sample", "CrmDynamicsOnline.Sample\CrmDynamicsOnline.Sample.csproj", "{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Release|iPhone.Build.0 = Release|iPhone
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FED4C3C1-2F3C-44EB-A051-513CCDF3F65E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CrmDynamicsOnline.Sample\CrmDynamicsOnline.Sample.csproj
+	EndGlobalSection
+EndGlobal
